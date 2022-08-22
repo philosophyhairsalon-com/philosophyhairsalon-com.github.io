@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
-source "https://rubygems.org"
+source 'https://rubygems.org'
+
 
 
 gem "jekyll-feed", "~> 0.12"
@@ -10,3 +11,4 @@ gem "jekyll-seo-tag"
 gem 'webrick'
 gem 'rack'
 gem 'jekyll-coffeescript'
+gem 'jekyll-sass-converter'
