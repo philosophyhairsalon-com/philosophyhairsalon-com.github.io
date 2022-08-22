@@ -3,7 +3,6 @@
 source "https://rubygems.org"
 
 
-
 gem "jekyll-feed", "~> 0.12"
 gem "jekyll-archives"
 gem "jekyll-paginate"
